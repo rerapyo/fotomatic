@@ -423,11 +423,11 @@ footer {
   background-color: #9b9b9b;
   padding: 1.5rem 2rem;
   height: 3.875rem;
+  display: flex;
 }
 
 footer .content {
   color: white;
-  /* display: flex; */
   font-size: .75rem;
 }
 
